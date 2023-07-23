@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.MoneyManagemenButton = new System.Windows.Forms.Button();
+            this.CloseButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // MoneyManagemenButton
@@ -41,11 +42,22 @@
             this.MoneyManagemenButton.Text = "今月の命";
             this.MoneyManagemenButton.UseVisualStyleBackColor = true;
             // 
+            // CloseButton
+            // 
+            this.CloseButton.Dock = System.Windows.Forms.DockStyle.Top;
+            this.CloseButton.Location = new System.Drawing.Point(0, 61);
+            this.CloseButton.Name = "CloseButton";
+            this.CloseButton.Size = new System.Drawing.Size(260, 61);
+            this.CloseButton.TabIndex = 1;
+            this.CloseButton.Text = "閉じる";
+            this.CloseButton.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(260, 293);
+            this.Controls.Add(this.CloseButton);
             this.Controls.Add(this.MoneyManagemenButton);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -56,6 +68,7 @@
         #endregion
 
         private System.Windows.Forms.Button MoneyManagemenButton;
+        private System.Windows.Forms.Button CloseButton;
     }
 }
 
