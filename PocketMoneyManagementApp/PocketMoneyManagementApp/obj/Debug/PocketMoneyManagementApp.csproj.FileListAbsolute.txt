@@ -3,9 +3,10 @@ C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\bi
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\bin\Debug\PocketMoneyManagementApp.pdb
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.csproj.AssemblyReference.cache
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.csproj.SuggestedBindingRedirects.cache
-C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.Form1.resources
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.Properties.Resources.resources
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.csproj.GenerateResource.cache
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.csproj.CoreCompileInputs.cache
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.exe
 C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.pdb
+C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.MenuForm.resources
+C:\Users\tukin\source\repos\PocketMoneyManagementApp\PocketMoneyManagementApp\obj\Debug\PocketMoneyManagementApp.BalanceForm.resources

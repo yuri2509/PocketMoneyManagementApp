@@ -1,6 +1,6 @@
 ﻿namespace PocketMoneyManagementApp
 {
-    partial class Form1
+    partial class MenuForm
     {
         /// <summary>
         /// 必要なデザイナー変数です。
@@ -41,6 +41,7 @@
             this.MoneyManagemenButton.TabIndex = 0;
             this.MoneyManagemenButton.Text = "今月の命";
             this.MoneyManagemenButton.UseVisualStyleBackColor = true;
+            this.MoneyManagemenButton.Click += new System.EventHandler(this.MoneyManagemenButton_Click);
             // 
             // CloseButton
             // 
@@ -53,15 +54,15 @@
             this.CloseButton.UseVisualStyleBackColor = true;
             this.CloseButton.Click += new System.EventHandler(this.CloseButton_Click);
             // 
-            // Form1
+            // MenuForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(260, 293);
             this.Controls.Add(this.CloseButton);
             this.Controls.Add(this.MoneyManagemenButton);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MenuForm";
+            this.Text = "メニュー画面";
             this.ResumeLayout(false);
 
         }

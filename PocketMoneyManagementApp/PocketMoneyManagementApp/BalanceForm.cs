@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace PocketMoneyManagementApp
 {
-    public partial class Form1 : Form
+    public partial class BalanceForm : System.Windows.Forms.Form
     {
-        public Form1()
+        public BalanceForm()
         {
             InitializeComponent();
-        }
-
-        private void CloseButton_Click(object sender, EventArgs e)
-        {
-            Close();
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace PocketMoneyManagementApp
 {
-    partial class Form2
+    partial class BalanceForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form2
+            // BalanceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(640, 451);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(667, 613);
+            this.Name = "BalanceForm";
+            this.Text = "今月の命";
             this.ResumeLayout(false);
 
         }
